@@ -1,0 +1,4 @@
+1- Los géneros que puedes buscar son: mmorpg, shooter, strategy, moba, racing, sports, social, sandbox, open-world, survival, pvp, pve, pixel, voxel, zombie, turn-based, first-person, third-Person, top-down, tank, space, sailing, side-scroller, superhero, permadeath, card, battle-royale, mmo, mmofps, mmotps, 3d, 2d, anime, fantasy, sci-fi, fighting, action-rpg, action, military, martial-arts, flight, low-spec, tower-defense, horror, mmorts.
+2- No supe como manejar los errores de esta api.
+3- Utilicé lo siguiente: https://www.freetogame.com/api-doc
+                         https://rapidapi.com/digiwalls/api/free-to-play-games-database
